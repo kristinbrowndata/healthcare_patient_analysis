@@ -1,0 +1,19 @@
+Feature,Importance
+Treatment Cost,0.328514
+Recovery Score,0.199134
+Length of Stay (Days),0.111508
+Visit Type (Routine),0.028757
+Age Group (31–45),0.026493
+Gender (Male),0.026349
+Treatment Type (Surgery),0.025539
+Region (South),0.025126
+Treatment Type (Observation),0.02482
+Treatment Type (Therapy),0.024601
+Region (North),0.024098
+Region (West),0.023896
+Age Group (46–60),0.023505
+Department (Pediatrics),0.02238
+Department (Neurology),0.021956
+Department (Orthopedics),0.021843
+Department (General Medicine),0.021753
+Age Group (60+),0.019728
