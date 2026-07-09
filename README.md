@@ -63,6 +63,6 @@ Overall, the analysis identified several meaningful patterns related to patient 
 
 ## **View the [Interactive Dashboard](https://public.tableau.com/views/HealthcarePatientAnalysis_17833362098500/HealthcarePatientAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link):**
 
-<img width="1260" height="484" alt="Screenshot 2026-07-08 at 9 56 30 AM" src="https://github.com/user-attachments/assets/5ac113bc-d2a8-4994-b89b-ceb1038ca368" />
-<img width="1254" height="549" alt="Screenshot 2026-07-08 at 9 56 19 AM" src="https://github.com/user-attachments/assets/a7fb0650-ee28-4bf1-bec1-981abfe31d46" />
 <img width="1255" height="776" alt="Screenshot 2026-07-08 at 9 56 03 AM" src="https://github.com/user-attachments/assets/9d422015-8c0c-4c87-a7a6-4d07d574e55c" />
+<img width="1254" height="549" alt="Screenshot 2026-07-08 at 9 56 19 AM" src="https://github.com/user-attachments/assets/a7fb0650-ee28-4bf1-bec1-981abfe31d46" />
+<img width="1260" height="484" alt="Screenshot 2026-07-08 at 9 56 30 AM" src="https://github.com/user-attachments/assets/5ac113bc-d2a8-4994-b89b-ceb1038ca368" />
