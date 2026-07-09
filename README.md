@@ -47,6 +47,21 @@ The dataset is a synthetic construct created to facilitate learning and practice
 * Treatment cost showed little direct relationship with readmission risk.
 * Predictive models did not accurately predict readmission risk.
 
+## **Executive Summary**
+Executive Summary
+
+This analysis examined 5,000 patient records to identify factors associated with treatment costs, recovery outcomes, and hospital readmission risk. The project included data cleaning using SQL, exploratory data analysis and visualization using Python, and predictive modeling using machine learning techniques.
+
+The analysis found that readmission risk varies across several patient and visit characteristics. Patients aged 60 and older experienced the highest average readmission risk, while patients aged 18–30 had the lowest. Regional differences were also observed, with the East region showing the highest average readmission risk and the North region showing the lowest. Among hospital departments, Neurology had the highest average readmission risk, while Cardiology had the lowest. Treatment type showed a similar pattern, with Observation and Therapy resulting in slightly higher readmission risks than Medication and Surgery.
+
+Length of stay demonstrated the strongest relationship with readmission risk among the variables analyzed. Patients with longer hospital stays generally experienced higher average readmission risks, with patients staying 12 days showing a 13.45% higher readmission risk than patients with no hospital stay. In contrast, treatment cost showed little evidence of a direct relationship with readmission risk despite substantial variation in treatment expenses across patients.
+
+Treatment costs varied by both age group and region. Patients aged 18–30 incurred the highest average treatment costs, while patients aged 60 and older incurred the lowest. Regionally, the South recorded the highest average treatment costs, while the East had the lowest. Neurology was the most expensive department on average, while General Medicine had the lowest average treatment cost.
+
+A predictive modeling exercise was conducted to determine whether patient characteristics and visit details could accurately predict readmission risk. Both a Linear Regression model and a Random Forest Regressor demonstrated poor predictive performance, producing negative R² values. These results indicate that the available variables do not provide sufficient predictive power to reliably forecast readmission risk within this synthetic dataset.
+
+Overall, the analysis identified several meaningful patterns related to patient outcomes and healthcare costs. While demographic characteristics, treatment details, and length of stay showed modest relationships with readmission risk, additional data would likely be required to develop a reliable predictive model for hospital readmissions.
+
 ## **View the [Interactive Dashboard](https://public.tableau.com/views/HealthcarePatientAnalysis_17833362098500/HealthcarePatientAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link):**
 
 <img width="1260" height="484" alt="Screenshot 2026-07-08 at 9 56 30 AM" src="https://github.com/user-attachments/assets/5ac113bc-d2a8-4994-b89b-ceb1038ca368" />
