@@ -48,7 +48,6 @@ The dataset is a synthetic construct created to facilitate learning and practice
 * Predictive models did not accurately predict readmission risk.
 
 ## **Executive Summary**
-Executive Summary
 
 This analysis examined 5,000 patient records to identify factors associated with treatment costs, recovery outcomes, and hospital readmission risk. The project included data cleaning using SQL, exploratory data analysis and visualization using Python, and predictive modeling using machine learning techniques.
 
